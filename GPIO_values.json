@@ -1,0 +1,17 @@
+{
+    "randomButton": 12,
+
+    "InputOutput": {
+	"mainStuff": [
+	    {"color": "red1",   "button":4,  "led":18},
+	    {"color": "red2",   "button":5,  "led":27},
+	    {"color": "blue1",  "button":17, "led":23},
+	    {"color": "blue2",  "button":13, "led":6},
+	    {"color": "green1", "button":22, "led":24},
+	    {"color": "green2", "button":26, "led":19}
+	],
+	"colorLED": [
+	    {"red": 16,"blue": 21, "green": 20}
+	]	
+    }
+}
