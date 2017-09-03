@@ -22,7 +22,7 @@ To use the Midnight theme:
     gem "github-pages", group: :jekyll_plugins
     ```
 
-
+foo
 
 ## Customizing
 
